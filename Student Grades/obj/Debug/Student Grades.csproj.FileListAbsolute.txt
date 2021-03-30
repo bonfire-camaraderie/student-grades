@@ -1,0 +1,7 @@
+C:\Users\shahh\source\repos\Student Grades\Student Grades\bin\Debug\Student Grades.exe.config
+C:\Users\shahh\source\repos\Student Grades\Student Grades\bin\Debug\Student Grades.exe
+C:\Users\shahh\source\repos\Student Grades\Student Grades\bin\Debug\Student Grades.pdb
+C:\Users\shahh\source\repos\Student Grades\Student Grades\obj\Debug\Student Grades.csprojAssemblyReference.cache
+C:\Users\shahh\source\repos\Student Grades\Student Grades\obj\Debug\Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\shahh\source\repos\Student Grades\Student Grades\obj\Debug\Student Grades.exe
+C:\Users\shahh\source\repos\Student Grades\Student Grades\obj\Debug\Student Grades.pdb
