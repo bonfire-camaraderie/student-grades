@@ -5,6 +5,17 @@ namespace Student_Grades
 {
     public class Bot
     {
+        public void StartChat(Grades grades)
+        {
+            Welcome();
+
+            while (true)
+            {
+                ShowOptions();
+                ProcessOperation(grades);
+            }
+        }
+
         public void ProcessOperation(Grades grades)
         {
             char option = Console.ReadKey().KeyChar;

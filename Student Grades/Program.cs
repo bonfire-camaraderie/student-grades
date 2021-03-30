@@ -14,9 +14,8 @@ namespace Student_Grades
             Grades grades = new Grades(fileReader.GetTXTContent());
 
             Bot bot = new Bot();
-            bot.Welcome();
-            bot.ShowOptions();
-            bot.ProcessOperation(grades);
+
+            bot.StartChat(grades);         
         }
     }
 }

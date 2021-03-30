@@ -34,8 +34,8 @@ namespace Student_Grades
 
         public IDictionary<string, List<string>> GetBestWorstStudent()
         {
-            List<string> bestStudents = null;
-            List<string> worstStudents = null;
+            List<string> bestStudents = new List<string>();
+            List<string> worstStudents = new List<string>();
             int highestAverage = 1;
             int lowestAverage = 5;
 
